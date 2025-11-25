@@ -76,7 +76,7 @@ ExameEET/
 ├── UrbanSound8K.csv
 │
 ├── classweights.ipynb
-├── pipeline_main.py
+├── eetexame.py
 ├── plotResults.ipynb
 │
 ├── results/
@@ -92,7 +92,7 @@ ExameEET/
 │       ├── 04_confusion_matrix_gmm.png
 │       └── 05_confusion_matrix_hmm.png
 │
-└── output.zip
+└── results.zip
 ```
 
 ---
