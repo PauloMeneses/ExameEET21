@@ -76,7 +76,7 @@ ExameEET/
 ├── UrbanSound8K.csv
 │
 ├── classweights.ipynb
-├── eetexame.py
+├── eetexame.ipynb
 ├── plotResults.ipynb
 │
 ├── results/
