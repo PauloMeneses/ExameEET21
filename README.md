@@ -136,7 +136,7 @@ base_path = r"E:\ExameEET"
 ### **3. Execute a pipeline**
 
 ```bash
-python pipeline_main.py
+python eetexame.ipynb
 ```
 
 ### **4. Gere as figuras**
